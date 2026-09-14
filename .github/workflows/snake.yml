@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile graphics
 
 on:
   schedule:
@@ -10,6 +10,7 @@ on:
       - main
     paths:
       - '.github/workflows/snake.yml'
+      - 'scripts/generate_activity.py'
 
 permissions:
   contents: read
@@ -25,6 +26,17 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Read the chart generator
+        uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+
+      - name: Generate activity graphs from GitHub data
+        run: python3 scripts/generate_activity.py
+        env:
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate light and dark contribution snakes
         uses: Platane/snk/svg-only@v3
         with:
@@ -42,6 +54,6 @@ jobs:
           keep_history: true
           allow_empty_commit: false
           jekyll: false
-          commit_message: Update contribution snake
+          commit_message: Update contribution graph and snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
