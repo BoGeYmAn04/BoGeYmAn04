@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Priyash Patel — Data engineering, AI applications and full-stack development" width="100%" />
+  <img src="./assets/header.gif" alt="Priyash Patel — a multilingual typing animation" width="100%" />
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
   <a href="https://leetcode.com/u/BoGeYmAn13/"><img src="https://img.shields.io/badge/LeetCode-BoGeYmAn13-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" alt="My LeetCode profile" /></a>
 </p>
 
-## Hey, I'm Priyash 👋
+## Hey, I'm Priyash <img src="./assets/wave.gif" alt="Waving hello" width="36" height="36" />
 
-I'm a **Civil Engineering undergraduate at IIT Indore** who builds data pipelines, AI applications and full-stack products. I'm also a **LeetCoder who loves solving problems**, a **photographer, cinematographer and editor**.
+I'm an **undergraduate at IIT Indore** who builds data pipelines, AI applications and full-stack products. I'm also a **LeetCoder who loves solving problems**, a **photographer, cinematographer and editor**.
 
 - 📊 **Working with data at scale:** my Zomato project uses a source dataset with **35.1 million records**, including **10 million orders**.
 - 🧩 **Problem solving:** I enjoy breaking down tricky problems and finding better solutions. I've solved 200+ DSA problems across LeetCode and Codeforces—[find me on LeetCode](https://leetcode.com/u/BoGeYmAn13/).
@@ -45,11 +45,12 @@ I'm a **Civil Engineering undergraduate at IIT Indore** who builds data pipeline
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=databricks&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Photography, video and design**
+**Photography, Video and Design**
 
 <p>
   <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="48" height="48" />&nbsp;&nbsp;
@@ -58,19 +59,18 @@ I'm a **Civil Engineering undergraduate at IIT Indore** who builds data pipeline
   <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" alt="Adobe After Effects" title="Adobe After Effects" width="48" height="48" />
 </p>
 
-Photoshop · Premiere Pro · Lightroom · After Effects
 
 ## GitHub activity 📈
 
-My contribution activity over the last 31 days.
+My contribution activity over the last 31 days, generated daily from GitHub and stored in this repository.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BoGeYmAn04&amp;days=31&amp;bg_color=0b1220&amp;color=cbd5e1&amp;line=5eead4&amp;point=f1f5f9&amp;area=true&amp;area_color=134e4a&amp;hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BoGeYmAn04&amp;days=31&amp;bg_color=ffffff&amp;color=334155&amp;line=059669&amp;point=0f766e&amp;area=true&amp;area_color=d1fae5&amp;hide_border=true" />
-  <img alt="Priyash's GitHub contribution activity over the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=BoGeYmAn04&amp;days=31&amp;bg_color=0b1220&amp;color=cbd5e1&amp;line=5eead4&amp;point=f1f5f9&amp;area=true&amp;area_color=134e4a&amp;hide_border=true" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BoGeYmAn04/BoGeYmAn04/output/activity-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BoGeYmAn04/BoGeYmAn04/output/activity.svg" />
+  <img alt="Priyash's GitHub contribution activity over the last 31 days" src="https://raw.githubusercontent.com/BoGeYmAn04/BoGeYmAn04/output/activity.svg" width="100%" />
 </picture>
 
-<sub>Graph powered by <a href="https://github.com/ashutosh00710/github-readme-activity-graph">GitHub Readme Activity Graph</a>.</sub>
+<sub>Source: GitHub contribution calendar. Counts reflect activity visible to the workflow token.</sub>
 
 ## A snake through my contributions 🐍
 
@@ -84,3 +84,4 @@ An animated tour of my GitHub contribution calendar, refreshed daily with GitHub
 
 <sub>Animation generated with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
 
+<!-- Optional: add your Codeforces profile link when ready. -->
