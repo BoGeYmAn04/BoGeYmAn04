@@ -84,4 +84,3 @@ An animated tour of my GitHub contribution calendar, refreshed daily with GitHub
 
 <sub>Animation generated with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
 
-<!-- Optional: add your Codeforces profile link when ready. -->
