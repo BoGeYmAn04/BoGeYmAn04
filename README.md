@@ -14,7 +14,7 @@
 I'm an **undergraduate at IIT Indore** who builds data pipelines, AI applications and full-stack products. I'm also a **LeetCoder who loves solving problems**, a **photographer, cinematographer and editor**.
 
 - 📊 **Working with data at scale:** my Zomato project uses a source dataset with **35.1 million records**, including **10 million orders**.
-- 🧩 **Problem solving:** I enjoy breaking down tricky problems and finding better solutions. I've solved 200+ DSA problems across LeetCode and Codeforces—[find me on LeetCode](https://leetcode.com/u/BoGeYmAn13/).
+- 🧩 **Problem solving:** I enjoy breaking down tricky problems and finding better solutions. I've solved 450+ DSA problems across LeetCode and Codeforces—[find me on LeetCode](https://leetcode.com/u/BoGeYmAn13/).
 - 📷 **Photography:** I love capturing moments and telling stories through photographs.
 - 🎬 **Cinematography and editing:** I enjoy shaping a story through composition, motion and the edit.
 
