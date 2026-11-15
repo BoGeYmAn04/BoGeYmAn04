@@ -9,12 +9,16 @@
   <a href="https://leetcode.com/u/BoGeYmAn13/"><img src="https://img.shields.io/badge/LeetCode-BoGeYmAn13-FFA116?style=flat-square&amp;logo=leetcode&amp;logoColor=black" alt="My LeetCode profile" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BoGeYmAn04&amp;label=Profile+views&amp;color=0A66C2&amp;style=flat-square" alt="GitHub profile views" />
+</p>
+
 ## Hey, I'm Priyash <img src="./assets/wave.gif" alt="Waving hello" width="36" height="36" />
 
 I'm an **undergraduate at IIT Indore** who builds data pipelines, AI applications and full-stack products. I'm also a **LeetCoder who loves solving problems**, a **photographer, cinematographer and editor**.
 
 - 📊 **Working with data at scale:** my Zomato project uses a source dataset with **35.1 million records**, including **10 million orders**.
-- 🧩 **Problem solving:** I enjoy breaking down tricky problems and finding better solutions. I've solved 450+ DSA problems across LeetCode and Codeforces—[find me on LeetCode](https://leetcode.com/u/BoGeYmAn13/).
+- 🧩 **Problem solving:** I enjoy breaking down tricky problems and finding better solutions. I've solved 450+ DSA problems on LeetCode[find me on LeetCode](https://leetcode.com/u/BoGeYmAn13/).
 - 📷 **Photography:** I love capturing moments and telling stories through photographs.
 - 🎬 **Cinematography and editing:** I enjoy shaping a story through composition, motion and the edit.
 
@@ -24,33 +28,64 @@ I'm an **undergraduate at IIT Indore** who builds data pipelines, AI application
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-**Data and AI**
+**Data engineering, databases and cloud**
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Aiven](https://img.shields.io/badge/Aiven-FF3354?style=flat-square&logo=aiven&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=geopandas&logoColor=white)
+
+**AI, machine learning and data science**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
+![Chroma](https://img.shields.io/badge/Chroma-5B3CC4?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-202020?style=flat-square)
+![Tavily](https://img.shields.io/badge/Tavily-2255BB?style=flat-square)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-4B5563?style=flat-square)
 
-**Applications and infrastructure**
+**Web development, APIs and infrastructure**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=databricks&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Photography, Video and Design**
+**Analytics and business intelligence**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Photography, video and design**
 
 <p>
   <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="48" height="48" />&nbsp;&nbsp;
@@ -58,7 +93,6 @@ I'm an **undergraduate at IIT Indore** who builds data pipelines, AI application
   <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/lightroom.svg" alt="Adobe Lightroom" title="Adobe Lightroom" width="48" height="48" />&nbsp;&nbsp;
   <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects.svg" alt="Adobe After Effects" title="Adobe After Effects" width="48" height="48" />
 </p>
-
 
 ## GitHub activity 📈
 
@@ -83,4 +117,3 @@ An animated tour of my GitHub contribution calendar, refreshed daily with GitHub
 </picture>
 
 <sub>Animation generated with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
-
